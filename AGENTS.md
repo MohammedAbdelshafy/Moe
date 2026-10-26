@@ -1,8 +1,9 @@
-# Moe Workspace
+# Moe's Workspace
 
-- Inventory entry: [README.md](README.md)
-- Existing projects: [projects](projects/)
-- Study notes: [study-notes](study-notes/)
+- Start here: [README.md](README.md)
+- Project work: [projects](projects/)
+- Study material: [study-notes](study-notes/)
 - Project contract: [CONTEXT.md](CONTEXT.md)
+- Portfolio-level route: [Jarvis ICM map](https://github.com/MohammedAbdelshafy/jarvis-mbm/blob/feature/icm-portfolio-map/ICM/REPO_MAP.md)
 
-Do not assign a new product name or merge folders until the existing contents and consumers have been inspected.
+Keep project code and study notes separate. Preserve existing paths, and never commit credentials or private personal data.
