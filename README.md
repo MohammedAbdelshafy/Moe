@@ -1,12 +1,17 @@
-# Moe Workspace
+# Moe's Workspace
 
-This repository currently has two top-level areas: `projects/` and `study-notes/`. Its overall purpose has not yet been documented, so this page does not assign it a new product name or claim that it is an active product.
+A small personal workspace for project files and study notes. It currently keeps two kinds of material separate:
 
-## Where to look
+- `projects/`: project-specific work, including the Nadeen bridal RSVP site.
+- `study-notes/`: learning notes, including reinforced-concrete study material.
 
-- `projects/` — inspect project contents and their own READMEs before continuing work.
-- `study-notes/` — reference and learning material.
+## How to use this repository
 
-## Before adding work
+- Keep each project in its own folder and give it a short README with its purpose, current status, and how to check it.
+- Keep study notes separate from application code.
+- Avoid moving or renaming existing files until their links and consumers have been checked.
+- Do not add credentials, private guest information or unredacted customer data to Git.
 
-Identify the owner and intended outcome, check whether the material already belongs to a canonical repository, and record dependencies before considering a move. Preserve existing files until an inventory and migration plan are reviewed.
+## Portfolio map
+
+The main cross-project routing guide is [Jarvis ICM](https://github.com/MohammedAbdelshafy/jarvis-mbm/blob/feature/icm-portfolio-map/ICM/REPO_MAP.md). This repo is a supporting workspace, not a second MBM control plane.
